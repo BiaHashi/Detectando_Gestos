@@ -11,6 +11,7 @@ Projeto desenvolvido em Python utilizando as bibliotecas OpenCV e MediaPipe para
 - Captura e processamento de imagens pela webcam.
 - Detecção e rastreamento de mãos em tempo real.
 - Identificação dos pontos de referência das mãos (landmarks).
+- Mudança de cores nos pontos de referência.
 - Conversão de imagens do formato BGR para RGB.
 - Aplicação de funções, estruturas de repetição e condicionais.
 - Configuração e execução do código no Visual Studio Code.
